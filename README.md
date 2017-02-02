@@ -1,4 +1,4 @@
 # trollo
 Programmatic puzzles
-http://imgur.com/FY0htvQ
-![Trollo](http://imgur.com/FY0htvQ)
+
+![Trollo](http://g.recordit.co/QRDa8pPTtH.gif)
